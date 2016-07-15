@@ -1,0 +1,9 @@
+F:\Program Files\Code\Correspond\Correspond\bin\Debug\Correspond.exe.config
+F:\Program Files\Code\Correspond\Correspond\bin\Debug\Correspond.exe
+F:\Program Files\Code\Correspond\Correspond\bin\Debug\Correspond.pdb
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.csprojResolveAssemblyReference.cache
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.Server.resources
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.Properties.Resources.resources
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.csproj.GenerateResource.Cache
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.exe
+F:\Program Files\Code\Correspond\Correspond\obj\Debug\Correspond.pdb

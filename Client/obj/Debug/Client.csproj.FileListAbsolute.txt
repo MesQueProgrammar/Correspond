@@ -1,0 +1,9 @@
+F:\Program Files\Code\Correspond\Client\bin\Debug\Client.exe.config
+F:\Program Files\Code\Correspond\Client\bin\Debug\Client.exe
+F:\Program Files\Code\Correspond\Client\bin\Debug\Client.pdb
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.Client.resources
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.exe
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.pdb
+F:\Program Files\Code\Correspond\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
